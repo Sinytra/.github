@@ -25,3 +25,16 @@
   author:
     name: Sinytra
     avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
+- content: |-
+    ## Moderation
+    We operate a 3 strikes policy. Rule violations (listed above) can trigger these actions.
+    - Strike one will result in an in channel warning stating which rule you violated
+    - Strike two will result in a timeout
+    - Strike three will result in a ban or read-only purgatory
+
+    *Significant violations may lead to one or more of these steps being skipped.*
+
+    Permanent Invite: https://discord.sinytra.org
+  author:
+    name: Sinytra
+    avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
