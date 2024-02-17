@@ -1,4 +1,3 @@
----
 - content: |-
     Welcome to the official [Sinytra](https://sinytra.org) Discord server!
 
@@ -7,41 +6,32 @@
     name: Sinytra
     avatar: https://github.com/Sinytra.png
   embeds:
-    - title: Rule 1. No spamming
-      description: >-
-        This includes emojis, GIFs, many single word messages or
-        advertisements.  
-
-        Please do not ping developers or other people in order to ask for help or updates on issues either. All issues are important but some may be harder to fix than other so keep that in mind.
-    - title: Rule 2. Please keep the channel topic in mind
-    - title: Rule 3. Treat everyone with respect
-      description: Do not insult people. Racism, transphobia or any form of bigotry
-        will not be tolerated.
-    - title: Rule 4. Do not promote or participate in illegal activities.
-      description: This includes piracy, and scams.
-    - title: Rule 5. Do not send content that is hateful or sexually explicit.
-      description: This is not a NSFW server.
+  - title: Rule 1. No spamming
+    description: |- 
+      This includes emojis, GIFs, many single word messages or advertisements.  
+      Please do not ping developers or other people in order to ask for help or updates on issues either. All issues are important but some may be harder to fix than other so keep that in mind.
+  - title: Rule 2. Please keep the channel topic in mind
+  - title: Rule 3. Treat everyone with respect
+    description: "Do not insult people. Racism, transphobia or any form of bigotry\
+      \ will not be tolerated."
+  - title: Rule 4. Do not promote or participate in illegal activities.
+    description: "This includes piracy, and scams."
+  - title: Rule 5. Do not send content that is hateful or sexually explicit.
+    description: This is not a NSFW server.
 - content: _ _
   author:
     name: Sinytra
     avatar: https://github.com/Sinytra.png
-- content: >-
+- content: |-
     ## Moderation
-
     We operate a 3 strikes policy. Rule violations (listed above) can trigger these actions.
-
     - Strike one will result in an in channel warning stating which rule you violated
-
     - Strike two will result in a timeout
-
     - Strike three will result in a ban or read-only purgatory
-
 
     *Significant violations may lead to one or more of these steps being skipped.*
 
-
     Have a nice stay, and remember: if you feel like a member broke any of the rules please do not hesitate to contact moderators, either by pinging <@&1198374508327882903> or, by sending a message to an online moderator privately if you feel more comfortable doing it that way.
-
     Permanent Invite: <https://discord.sinytra.org>
   author:
     name: Sinytra
