@@ -4,6 +4,7 @@
     # Rules
   author:
     name: Sinytra
+    avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
   embeds:
   - title: Rule 1. No spamming
     description: "This includes emojis, GIFs, many single word messages or advertisements."
@@ -20,3 +21,7 @@
   - title: Rule 5. Do not send content that is hateful or sexually explicit.
     description: This is not a NSFW server.
     color: '#FFFFFF'
+- content: _ _
+  author:
+    name: Sinytra
+    avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
