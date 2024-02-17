@@ -4,27 +4,24 @@
     # Rules
   author:
     name: Sinytra
-    avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
+    avatar: https://github.com/Sinytra.png
   embeds:
   - title: Rule 1. No spamming
-    description: "This includes emojis, GIFs, many single word messages or advertisements."
-    color: '#FFFFFF'
+    description: |- 
+    This includes emojis, GIFs, many single word messages or advertisements.  
+    Please do not ping developers or other people in order to ask for help or updates on issues either. All issues are important but some may be harder to fix than other so keep that in mind.
   - title: Rule 2. Please keep the channel topic in mind
-    color: '#FFFFFF'
   - title: Rule 3. Treat everyone with respect
     description: "Do not insult people. Racism, transphobia or any form of bigotry\
       \ will not be tolerated."
-    color: '#FFFFFF'
   - title: Rule 4. Do not promote or participate in illegal activities.
     description: "This includes piracy, and scams."
-    color: '#FFFFFF'
   - title: Rule 5. Do not send content that is hateful or sexually explicit.
     description: This is not a NSFW server.
-    color: '#FFFFFF'
 - content: _ _
   author:
     name: Sinytra
-    avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
+    avatar: https://github.com/Sinytra.png
 - content: |-
     ## Moderation
     We operate a 3 strikes policy. Rule violations (listed above) can trigger these actions.
@@ -37,4 +34,4 @@
     Permanent Invite: https://discord.sinytra.org
   author:
     name: Sinytra
-    avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
+    avatar: https://github.com/Sinytra.png
