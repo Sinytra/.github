@@ -9,8 +9,11 @@ Our mission is to provide developers and users in modding with powerful and free
 #### Projects
 
 - 📖 [**Modded Minecraft Wiki**](https://moddedmc.org) - find & host mod documentation
+
 - 🔌 [**Connector**](https://github.com/Sinytra/Connector) - run Fabric mods on NeoForge
+
 - 🧵 [**Forgified Fabric API**](https://github.com/Sinytra/ForgifiedFabricAPI) - develop using the Fabric API on NeoForge
+
 - *...and more to come!*
 
 #### Resources
