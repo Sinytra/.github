@@ -1,4 +1,4 @@
-<img align="center" src="https://avatars.githubusercontent.com/u/135172129" width="96" height="96" />
+<img align="center" src="https://avatars.githubusercontent.com/u/135172129" width="64" height="64" />
 
 We are _**Sinytra**_, a team of passionate developers working on various projects related to cross-loader Minecraft modding with an emphasis on open-source principles and collaboration with the community.
 
