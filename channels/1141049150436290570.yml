@@ -4,6 +4,7 @@
     # Rules
   author:
     name: Sinytra
+    avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
   embeds:
   - title: Rule 1. No spamming
     description: "This includes emojis, GIFs, many single word messages or advertisements.\
@@ -28,3 +29,28 @@
 - content: _ _
   author:
     name: Sinytra
+    avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
+- content: "## Moderation\nWe operate a 3 strikes policy. Rule violations (listed\
+    \ above) can trigger these actions.\n- Strike one will result in an in channel\
+    \ warning stating which rule you violated\n- Strike two will result in a timeout\n\
+    - Strike three will result in a ban or read-only purgatory\n\n*Significant violations\
+    \ may lead to one or more of these steps being skipped.*\n\nHave a nice stay,\
+    \ and remember: if you feel like a member broke any of the rules please do not\
+    \ hesitate to contact moderators, either by pinging <@&1198374508327882903> or,\
+    \ by sending a message to an online moderator privately if you feel more comfortable\
+    \ doing it that way.\n\n## :heart: Support our work\n\nCreating and maintaining\
+    \ our mods takes thousands of hours of development, made possible by the wonderful\
+    \ modding community. If you like what we do and would like to help us grow, consider\
+    \ supporting us on [Patreon](<https://www.patreon.com/cw/Su5eD>). We greatly appreciate\
+    \ any support and feedback. Plus, you'll also unlock cool rewards in return!\n\
+    \nLooking for a server? Get a discount from our partner CreeperHost using our\
+    \ [affiliate link](<https://www.creeperhost.net/applyPromo/su5ed-t3l>).\n\n##\
+    \ :link: Where to find us \n\nFollow us on social media: **[Website](<https://connector.sinytra.org/>)・\
+    [Twitter](<https://x.com/su5ed>)・[BlueSky](<https://bsky.app/profile/su5ed.dev>)・\
+    [Reddit](<https://www.reddit.com/user/Su5eD>)・[Patreon](<https://www.patreon.com/cw/Su5eD>)**\n\
+    \nDownload our mods: **[GitHub](<https://github.com/Sinytra>)・[CurseForge](<https://www.curseforge.com/members/su5ed/projects>)・\
+    [Modrinth](<https://modrinth.com/organization/sinytra>)**\n\n## :handshake: Invite\
+    \ link\n\nPermanent Invite: <https://discord.sinytra.org/>"
+  author:
+    name: Sinytra
+    avatar: https://cdn.discordapp.com/avatars/1208400257889730561/4f03ebdf860832a7db6bffd37f74dac8.png
