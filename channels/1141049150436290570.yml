@@ -1,1 +1,30 @@
-[]
+- content: |-
+    Welcome to the official [Sinytra](https://sinytra.org) Discord server!
+
+    # Rules
+  author:
+    name: Sinytra
+  embeds:
+  - title: Rule 1. No spamming
+    description: "This includes emojis, GIFs, many single word messages or advertisements.\
+      \  \nPlease do not ping developers or other people in order to ask for help\
+      \ or updates on issues either. All issues are important but some may be harder\
+      \ to fix than others so keep that in mind."
+    color: "#E8D0CF"
+  - title: Rule 2. Please keep the channel topic in mind
+    description: "Please stay on topic. Don't ask for ETAs - we release updates as\
+      \ soon as they're ready. Watch #announcements for progress."
+    color: "#AEE5CE"
+  - title: Rule 3. Treat everyone with respect
+    description: "Do not insult people. Racism, transphobia or any form of bigotry\
+      \ will not be tolerated."
+    color: "#5CAFDB"
+  - title: Rule 4. Do not promote or participate in illegal activities.
+    description: "This includes piracy, and scams."
+    color: "#726DEB"
+  - title: Rule 5. Do not send content that is hateful or sexually explicit.
+    description: This is not a NSFW server.
+    color: "#EBE292"
+- content: _ _
+  author:
+    name: Sinytra
